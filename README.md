@@ -6,14 +6,14 @@ Motor Vehicle Collisions are responsible for the death of 150,000 citizens annua
 
 Our project aims at helping prevent motor vehicle collisions through the continuous monitoring of (both) external and internal surroundings of the vehicle. Externally, we aim to monitor the vehicle's location with respect to other vehicles, providing guidance for minimum safety distances for braking, situational awareness in poor visibility conditions and alerting the driver of traffic in the blind spots. Internally, we will monitor the attentiveness and alertness of the driver through computer vision, ensuring that he or she is fit to drive.
 
-## Business and Technical Presentations
+## Business and Technical Proposals
 - Quarterfinals Technical Proposal - https://www.youtube.com/watch?v=he6h7rP13t0
 - Quarterfinals Business Proposal - https://www.youtube.com/watch?v=psr-zqDIYrg
 - Quarterfinals Interim Technical Proposal - https://www.youtube.com/watch?v=VEirNduuXsg
 - Quarterfinals Interim Business Proposal - https://www.youtube.com/watch?v=q89oGk5nQeQ
 
 ## Creators
-This program was developed by the following students at IIT Guwahati:
+This porject was developed by the following students at IIT Guwahati:
 - Mayank Baranwal (https://github.com/Mayank-Baranwal) - Team Leader
 - Utkarsh Jain (https://github.com/utkarshjain1508)
 - Nitin Chauhan (https://github.com/Netrux)
